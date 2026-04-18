@@ -1,2 +1,5 @@
 import KyraaWebsite from "./KyraaWebsite.jsx";
-export default KyraaWebsite;
+
+export default function App() {
+  return <KyraaWebsite />;
+}
